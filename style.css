@@ -14,7 +14,7 @@ body {
 footer {
   text-align: center;
   padding: 1px;
-  background-color: #EF489E;
+  background-color: #FBF46D;
   color: white;
   position: fixed;
   bottom: 0;
@@ -39,7 +39,7 @@ h3 {
 font-size: 20px;
 font-weight: light;
 text-decoration: underline;
-text-decoration-color: #EF489E;
+text-decoration-color: #FBF46D;
 margin-top:40px;
 
 }
@@ -65,6 +65,12 @@ em{
 .bg-pink {
   background-color: #EF489E;
 }
+
+
+.bg-yellow {
+  background-color: #FBF46D;
+}
+
 
 hr {
   border: 4px solid pink;
