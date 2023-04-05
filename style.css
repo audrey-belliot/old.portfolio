@@ -80,7 +80,8 @@ em{
 }
 
 .bg-centrinno {
-  background-color: #C2E7B1;
+  /*background-color: #C2E7B1;*/
+  background-color: black;
 }
 
 hr {
